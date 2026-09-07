@@ -72,6 +72,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR_
 - marblism - https://www.marblism.com/
 - DirectoryKit - https://www.directorykit.xyz/
 - Horizon UI Boilerplate - https://horizon-ui.com/boilerplate
+- Hype Stack. **Open Source**. https://github.com/BetterTyped/hype-stack
 - Indie Starter Kit https://indie-starter.dev
 - SaaSBold - https://saasbold.com/
 - StartKit.AI - https://startkit.ai
